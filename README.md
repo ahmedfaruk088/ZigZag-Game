@@ -21,4 +21,4 @@ Render Pipeline: URP (Universal Render Pipeline)
 Platform: Mobil uyumlu (iOS/Android simülasyonu destekli).
 
 ## **📸 Uygulama Ekran Görüntüsü**
-![Uygulama Ekranı](StartScene.png)![Uygulama Ekranı](Game1.png)![Uygulama Ekranı](Game2.png)
+![Uygulama Ekranı](StartScene.png) ![Uygulama Ekranı](Game1.png) ![Uygulama Ekranı](Game2.png)
